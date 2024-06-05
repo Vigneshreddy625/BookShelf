@@ -33,6 +33,7 @@ Check out the live demo(https://book-shelf-iota.vercel.app/).
 2. Install dependencies:
     ```sh
     npm install
+    npm install react-router-dom
     ```
 
 3. Start the development server:
