@@ -1,0 +1,47 @@
+{
+  "numFound": 238,
+  "start": 0,
+  "numFoundExact": true,
+  "books": [
+    {
+      "title": "Whispers from the Grave",
+      "edition_count": 1,
+      "cover_i": 8239681,
+      "first_publish_year": 2006,
+      "author_name": ["Lesley Thompson"],
+      "key": "/works/OL15094536W",
+      "id_goodreads": ["999417"],
+      "id_librarything": ["2638706"]
+    },
+    {
+      "title": "The Lord of the Rings",
+      "edition_count": 195,
+      "cover_i": 8226191,
+      "first_publish_year": 1954,
+      "author_name": ["J.R.R. Tolkien"],
+      "key": "/works/OL262758W",
+      "id_goodreads": ["33"],
+      "id_librarything": ["1386534"]
+    },
+    {
+      "title": "The Two Towers",
+      "edition_count": 187,
+      "cover_i": 8275296,
+      "first_publish_year": 1954,
+      "author_name": ["J.R.R. Tolkien"],
+      "key": "/works/OL15172206W",
+      "id_goodreads": ["34"],
+      "id_librarything": ["1386535"]
+    },
+    {
+      "title": "Game of Thrones",
+      "edition_count": 92,
+      "cover_i": 8158435,
+      "first_publish_year": 1996,
+      "author_name": ["George R.R. Martin"],
+      "key": "/works/OL23919W",
+      "id_goodreads": ["13496"],
+      "id_librarything": ["3201754"]
+    }
+  ]
+}
